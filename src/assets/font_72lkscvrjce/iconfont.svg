@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="baocun" unicode="&#59702;" d="M814.805 768a51.179 51.179 0 0 0 51.179-51.179V51.99a51.179 51.179 0 0 0-51.179-51.157H201.173a51.179 51.179 0 0 0-51.178 51.157V716.821A51.179 51.179 0 0 0 201.173 768h613.654zM329.024 461.163a51.093 51.093 0 0 0-51.179 51.093V716.843h-76.672v-664.854h613.76V716.821H738.22v-204.48a51.179 51.179 0 0 0-51.179-51.178H329.024z m0 51.093h357.995V716.843H329.024v-204.587z m357.91-204.501a25.557 25.557 0 1 0 0.085-51.072H329.024a25.536 25.536 0 1 0 0 51.072h357.91z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="shijian" unicode="&#59156;" d="M512-128C229.23-128 0 101.23 0 384S229.23 896 512 896s512-229.23 512-512-229.23-512-512-512z m176.638 394.63L556 368.068V671c0 24.3-19.7 44-44 44s-44-19.7-44-44v-346.416l167.179-127.855c19.303-14.762 46.918-11.081 61.68 8.221 14.762 19.303 11.081 46.918-8.221 61.68z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
