@@ -3,7 +3,7 @@
     <el-header class="header">
         <div>后台管理系统</div>
         <div>
-            <el-button type="primary">退出</el-button>
+            <el-button type="primary" @click="tuicu">退出</el-button>
         </div>
     </el-header>
     <el-container>
@@ -54,7 +54,16 @@
 
 <script>
     export default {
-        
+       data() {
+           return {
+               
+           }
+       },
+        methods: {
+            tuicu() {
+                this.$router.push('/admin')
+            }
+        }
     }
 </script>
 
